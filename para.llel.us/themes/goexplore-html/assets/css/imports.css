@@ -1,0 +1,13 @@
+/*
+ * External CSS imports such as fonts.
+ *
+ * HTML TEMPLATES ONLY
+ * 
+ */
+
+/* Google Font */
+@import url(../../../../../fonts.googleapis.com/css_82a04ee0.css); /* Cabin */
+@import url(../../../../../fonts.googleapis.com/css_ffa4efb3.css);  /* Lato */
+
+/* Icons */
+@import url(./font-awesome.min.css);
