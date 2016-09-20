@@ -1,2 +1,2 @@
 <?php
-redirect 'index.html';
+redirect '/index.html';
