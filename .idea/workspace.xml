@@ -2,6 +2,293 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c8d5b3c-a307-485d-b30e-24e0f8eed4a4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Launch para.llel.us.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/autorun.inf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts.googleapis.com/css_82a04ee0.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts.googleapis.com/css_ffa4efb3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts.gstatic.com/s/cabin/v9/ClwGbaMfQ5c9QfM1bHNo1g.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts.gstatic.com/s/lato/v11/nQhiC-wSiJx0pvEuJl8d8A.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images-para.llel.us/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images-para.llel.us/envato/tf-header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images-para.llel.us/good_job.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images-para.llel.us/logos/upthemes-600x175.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/b-fade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/bg-solids-blue.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/bg-solids-dark.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/bg-solids-green.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/bg-solids-light.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/bg-solids-lighter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/bg-solids-orange.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/bg-solids-purple.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/bg-solids-white.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/button-sprite-facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/button-sprite-google.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/button-sprite-twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/envato/tf-boost-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/envato/tf-intersect-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/envato/tf-mingle-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/envato/tf-moxie-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/envato/tf-razor-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/envato/tf-revisionary-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/envato/tf-salutation-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/envato/tf-traject-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/envato/tf-unite-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/html5-3d-logo-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/html5-logo-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/html5-styling-logo-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-calendar-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-chat-2-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-email-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-facebook-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-mail-2-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-mailbox-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-monitor-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-mouse-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-phone-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-rss-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-tf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/icon-twitter-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/t-fade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2-para.llel.us/wp-logo-float.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main-social2search.netdna-ssl.com/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oss.maxcdn.com/respond/1.4.2/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/apps/minify/g=modernizr&amp;20160613173132.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/apps/minify/g=scripts&amp;20160613173132.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/apps/minify/g=styles&amp;20140816014416.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/assets/images/captcha.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/imports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/owl-carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/css/owl.video.play.png.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/fonts/fontawesome-webfont_162a16fe.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/fonts/fontawesome-webfont_cdea911c.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/fonts/fontawesome-webfont_cdea911c.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/fonts/fontawesome-webfont_cdea911c.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/fonts/fontawesome-webfont_cdea911c.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/fonts/fontawesome-webfont_cdea911c.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/fonts/glyphicons-halflings-regular_162a16fe.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-1-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-10-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-11-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-12-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-2-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-3-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-4-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-5-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-6-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-7-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-8-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-9-600x800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/blog-placeholder-vertical.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destination-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destination-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destination-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destination-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destination-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destination-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-1-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-10-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-11-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-12-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-13-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-14-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-15-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-16-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-17-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-18-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-19-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-2-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-20-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-21-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-22-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-3-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-4-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-5-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-6-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-7-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-8-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/destinations-9-960x540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/directory-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/directory-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/directory-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/directory-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/directory-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/directory-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/directory-item-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/directory-thumb-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/directory-thumb-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/directory-thumb-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/featured-destination-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/featured-destination-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/featured-destination-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/featured-destination-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/hero-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/hero-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/hero-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/hero-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/image-in-content-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/image-in-content-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/login-background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/login-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/logo-symbol-complex-colors.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/placeholder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/sidebar-ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/user-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/user-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/user-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/user-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/images/your-travel-website.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/3.2.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/Popover requires tooltip.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/activate.bs.scrollspy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/add.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/assets/js/libs/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/assets/js/libs/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/assets/js/libs/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/assets/js/libs/jquery-1.6.2.min.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bs.affix.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bs.alert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bs.button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bs.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bs.collapse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bs.dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bs.modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bs.popover.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bs.scrollspy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bs.tab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/bs.tooltip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/change.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/changed.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.bs.affix.data-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.bs.alert.data-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.bs.button.data-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.bs.carousel.data-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.bs.collapse.data-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.bs.dropdown.data-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.bs.dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.bs.modal.data-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.bs.tab.data-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.dismiss.bs.modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.owl.video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/click.preventClick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/close.bs.alert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/closed.bs.alert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/drag.owl.carousel dragged.owl.carousel translated.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/focusin.bs.modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/hashchange.owl.navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/hidden.bs.collapse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/hidden.bs.dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/hidden.bs.modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/hide.bs.collapse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/hide.bs.dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/hide.bs.modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/initialized.owl.carousel change.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/initialized.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/keydown.bs.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/keydown.bs.dropdown.data-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/keyup.dismiss.bs.modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/li.dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/load.bs.scrollspy.data-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/load.owl.lazy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/loaded.bs.modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/loaded.owl.lazy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/mouseenter.bs.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/mouseleave.bs.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/mouseleave.owl.autoplay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/mousemove.owl.dragEvents mouseup.owl.dragEvents touchmove.owl.dragEvents touchend.owl.dragEvents.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/mouseover.owl.autoplay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/play.owl.autoplay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/prepared.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/refresh.owl.carousel changed.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/refreshed.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/remove.owl.carousel prepared.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/resize.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/scroll.bs.affix.data-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/scroll.bs.scrollspy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/show.bs.collapse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/show.bs.dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/show.bs.modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/show.bs.tab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/shown.bs.collapse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/shown.bs.dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/shown.bs.modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/shown.bs.tab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/slid.bs.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/slide.bs.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/stop.owl.autoplay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/translate.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/assets/js/translated.owl.carousel refreshed.owl.carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/author.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/cover-with-page-content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/destination-parent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/destination-sub-page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/destinations-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/destinations.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/directory-category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/directory-single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/guide-single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/single-hero-title.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para.llel.us/themes/goexplore-html/single-hero.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/runwaywp.com/assets/images/runway-symbol.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/technologietrudeau.com/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/0.4.8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/1.3.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/1.7.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/11.9.1.43.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/JSON.parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/JSON.stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/Microsoft.XMLDOM.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/Microsoft.XMLHTTP.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/beforeactivate._change.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/change._change.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/click._change.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/click._submit keypress._submit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/content_site_839fd3c1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/localhost.localdomain.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/propertychange._change.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/submit._submit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/www.technologietrudeau.com.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/addon/script/}}else{i.jStorage=.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/analytics/sdaEvent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/searchengine/contentSiteSetup.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www.technologietrudeau.com/searchengine/trace.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="html.iws" />
@@ -101,12 +388,12 @@
       <updated>1474316506296</updated>
       <workItem from="1474316507532" duration="3070000" />
       <workItem from="1474319645506" duration="2697000" />
-      <workItem from="1474336493705" duration="1690000" />
+      <workItem from="1474336493705" duration="4168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7457000" />
+    <option name="totallyTimeSpent" value="9935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -116,9 +403,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.83306056" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.83306056" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
