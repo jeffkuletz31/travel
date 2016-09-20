@@ -1,2 +1,3 @@
 <?php
-echo 'hehe';
+
+header('Location: index.html');
